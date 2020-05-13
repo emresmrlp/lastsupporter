@@ -1,7 +1,5 @@
 # LastSupporter
 
-url.yml dosyasına url'yi yazın ve çalıştırın.
-
-%lastsupporter_name% yazarak PlaceHolderAPI destekli her yerde bu eklentiyi kullanabilirsiniz.
-
++ Bu eklenti sayesinde skriptle veya skript addonlarıyla uğraşmadan PlaceHolderAPI destekli tüm eklentileride %lastsupporter_name%
+kullanarak son destekçiyi gösterebilirsiniz. Tek yapmanız gerek şey url.yml girip api'nizin urlsini yapıştırmak.
 
