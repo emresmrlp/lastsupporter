@@ -1,7 +1,5 @@
 # LastSupporter
 
-+ Jar olarak indirmek için https://www.github.com/emresmrlp/LastSupporter/releases
-
-+ Bu eklenti sayesinde skriptle veya skript addonlarıyla uğraşmadan PlaceHolderAPI destekli tüm eklentileride %lastsupporter_name%
-kullanarak son destekçiyi gösterebilirsiniz. Tek yapmanız gerek şey url.yml girip api url'nizi yapıştırmak.
++ https://www.github.com/emresmrlp/LastSupporter/releases
++ Site body'sindeki değeri çeker. Jsoup kütüphanesi gereklidir.
 
