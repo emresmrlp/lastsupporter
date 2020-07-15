@@ -16,7 +16,6 @@ public class LastSupporter extends JavaPlugin{
 		ls = this;
 		if(!urlFile.exists()) {this.saveResource("url.yml", false);}
 		Bukkit.getLogger().info("[LastSupporter] Plugin is actived.");
-		Bukkit.getLogger().info("[LastSupporter] Developed by emresmrlp (ForestEdge)");
 	}
 	public static String getSupporter() {
 		try {
